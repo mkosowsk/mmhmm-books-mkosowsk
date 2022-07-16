@@ -1,3 +1,5 @@
+Link to my mmhmm video is [here](https://ooo.mmhmm.app/embed/z_E2wYp5hAAsQyRbafWgB0)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -18,4 +20,4 @@ The main page shows a list of books with title, author, description, and image. 
 
 This is a relatively barebones solution but future work could include adding form validation (Formik?), testing (React Testing Library could be a natural fit), more robust styling including responsive design (styled-components), handling authorization in a more secure manner, adding sorting/filtering of books, the ability to share collections, etc. As always, prioritization of business value should drive the prioritzation of engineering efforts.
 
-Deployed version is available [https://mmhmm-books-mkosowsk.vercel.app/](here).
+Deployed version is available [here](https://mmhmm-books-mkosowsk.vercel.app/)
